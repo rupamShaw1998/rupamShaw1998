@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rupam Shaw</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=30&color=96CD4B&center=true&width=800&lines=Welcome+to+my+GitHub!+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=30&color=96CD4B&center=true&width=1000&lines=Welcome+to+my+GitHub!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
-<img style="margin: auto" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+<img style="width: 100%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupamshaw1998&label=Profile%20views&color=0e75b6&style=flat" alt="rupamshaw1998" /> </p>
 
