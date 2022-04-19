@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rupamshw77777@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1mhJOWm-0G-AF_-ub42CJ7vbIdziAp4_i?usp=sharing](https://drive.google.com/drive/folders/1mhJOWm-0G-AF_-ub42CJ7vbIdziAp4_i?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1mhJOWm-0G-AF_-ub42CJ7vbIdziAp4_i?usp=sharing">Resume</a>
 
 - ⚡ Fun fact **I feel tensed when the coding goes easy 😆**
 
